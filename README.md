@@ -3,23 +3,15 @@
 Part 1: Python Basics
 
 - [Hello World](./src/01_hello_world/program.py)
+- [Variables and Data Types](./src/02_variables/program.py)
+- [Basic Arithmetic and Operators](./src/03_operations/program.py)
+- [Strings and Basic Manipulations](./src/04_strings/program.py)
+- [Control Flow: if, elif, and else](./src/05_control_flow/program.py)
 
-Variables and Data Types
 
-Program: A simple program to calculate the area of a rectangle.
-Concepts: Variables, strings, integers, floats, and input().
-Basic Arithmetic and Operators
 
-Program: A calculator for addition, subtraction, multiplication, and division.
-Concepts: Arithmetic operators, precedence, and type conversion.
-Strings and Basic Manipulations
 
-Program: Reverse a string and check if it’s a palindrome.
-Concepts: String slicing, methods, and formatting.
-Control Flow: if, elif, and else
 
-Program: Build a program to determine if a number is positive, negative, or zero.
-Concepts: Boolean expressions, conditional statements.
 Part 2: Diving Deeper
 Loops: for and while
 
@@ -41,6 +33,7 @@ Error Handling with try and except
 
 Program: Build a simple number guessing game with input validation.
 Concepts: Handling exceptions and user-friendly error messages.
+
 Part 3: Intermediate Concepts
 File Handling
 
