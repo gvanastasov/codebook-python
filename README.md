@@ -18,13 +18,8 @@ Part 1: Python Basics
 - [Class](./src/14_class/program.py)
 - [Module](./src/15_modules/program.py)
 - [Date](./src/16_dates/program.py)
+- [Regex](./src/17_regex/program.py)
 
-
-Part 4: Advanced Applications
-Working with APIs
-
-Program: Fetch live weather data using an API.
-Concepts: HTTP requests, the requests library, and parsing JSON.
 Data Analysis with Pandas
 
 Program: Analyze and visualize a dataset (e.g., CSV of sales).
