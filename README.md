@@ -13,16 +13,7 @@ Part 1: Python Basics
 - [Dictionary](./src/09_dictionary/program.py)
 - [Sets](./src/10_sets/program.py)
 - [Function](./src/11_functions/program.py)
-
-
-Part 2: Diving Deeper
-
-
-
-Error Handling with try and except
-
-Program: Build a simple number guessing game with input validation.
-Concepts: Handling exceptions and user-friendly error messages.
+- [Error Handling](./src/12_error_handling/program.py)
 
 Part 3: Intermediate Concepts
 File Handling
