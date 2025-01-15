@@ -9,6 +9,8 @@ Part 1: Python Basics
 - [Control Flow: if, elif, and else](./src/05_control_flow/program.py)
 - [Loops](./src/06_loops/program.py)
 - [List](./src/07_list/program.py)
+- [Tuple](./src/08_tuple/program.py)
+
 
 Part 2: Diving Deeper
 
