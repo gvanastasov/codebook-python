@@ -15,16 +15,9 @@ Part 1: Python Basics
 - [Function](./src/11_functions/program.py)
 - [Error Handling](./src/12_error_handling/program.py)
 - [File Handling](./src/13_file_handling/program.py)
+- [Class](./src/14_class/program.py)
 
 
-Object-Oriented Programming (OOP) Basics
-
-Program: Create a class for a BankAccount with deposit and withdraw methods.
-Concepts: Classes, objects, methods, and attributes.
-Modules and Libraries
-
-Program: Use the math module to calculate the area of various shapes.
-Concepts: Importing and using standard libraries.
 Working with Dates and Times
 
 Program: Create a program that calculates the number of days between two dates.
