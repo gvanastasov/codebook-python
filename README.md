@@ -7,20 +7,11 @@ Part 1: Python Basics
 - [Basic Arithmetic and Operators](./src/03_operations/program.py)
 - [Strings and Basic Manipulations](./src/04_strings/program.py)
 - [Control Flow: if, elif, and else](./src/05_control_flow/program.py)
-
-
-
-
+- [Loops](./src/06_loops/program.py)
 
 Part 2: Diving Deeper
-Loops: for and while
 
-Program: Generate a multiplication table for a number.
-Concepts: Iteration, loop control (break/continue).
-Lists and Tuples
 
-Program: Find the average, maximum, and minimum of numbers in a list.
-Concepts: List creation, indexing, slicing, and methods.
 Dictionaries and Sets
 
 Program: Count the frequency of words in a given text.
