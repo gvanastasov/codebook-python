@@ -10,15 +10,13 @@ Part 1: Python Basics
 - [Loops](./src/06_loops/program.py)
 - [List](./src/07_list/program.py)
 - [Tuple](./src/08_tuple/program.py)
+- [Dictionary](./src/09_dictionary/program.py)
+- [Sets](./src/10_sets/program.py)
 
 
 Part 2: Diving Deeper
 
 
-Dictionaries and Sets
-
-Program: Count the frequency of words in a given text.
-Concepts: Key-value pairs, dictionary methods, and set operations.
 Functions and Reusability
 
 Program: Write a function to check if a number is prime.
