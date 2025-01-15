@@ -8,6 +8,7 @@ Part 1: Python Basics
 - [Strings and Basic Manipulations](./src/04_strings/program.py)
 - [Control Flow: if, elif, and else](./src/05_control_flow/program.py)
 - [Loops](./src/06_loops/program.py)
+- [List](./src/07_list/program.py)
 
 Part 2: Diving Deeper
 
