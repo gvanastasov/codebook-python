@@ -12,15 +12,13 @@ Part 1: Python Basics
 - [Tuple](./src/08_tuple/program.py)
 - [Dictionary](./src/09_dictionary/program.py)
 - [Sets](./src/10_sets/program.py)
+- [Function](./src/11_functions/program.py)
 
 
 Part 2: Diving Deeper
 
 
-Functions and Reusability
 
-Program: Write a function to check if a number is prime.
-Concepts: Function definitions, arguments, and return values.
 Error Handling with try and except
 
 Program: Build a simple number guessing game with input validation.
