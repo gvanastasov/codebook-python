@@ -16,7 +16,7 @@ Part 1: Python Basics
 - [Error Handling](./src/12_error_handling/program.py)
 - [File Handling](./src/13_file_handling/program.py)
 - [Class](./src/14_class/program.py)
-
+- [Module](./src/15_modules/program.py)
 
 Working with Dates and Times
 
