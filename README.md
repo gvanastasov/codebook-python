@@ -17,15 +17,9 @@ Part 1: Python Basics
 - [File Handling](./src/13_file_handling/program.py)
 - [Class](./src/14_class/program.py)
 - [Module](./src/15_modules/program.py)
+- [Date](./src/16_dates/program.py)
 
-Working with Dates and Times
 
-Program: Create a program that calculates the number of days between two dates.
-Concepts: The datetime module and formatting dates.
-Regular Expressions (Regex)
-
-Program: Validate email addresses.
-Concepts: The re module, pattern matching, and groups.
 Part 4: Advanced Applications
 Working with APIs
 
