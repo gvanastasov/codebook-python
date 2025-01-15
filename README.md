@@ -14,12 +14,9 @@ Part 1: Python Basics
 - [Sets](./src/10_sets/program.py)
 - [Function](./src/11_functions/program.py)
 - [Error Handling](./src/12_error_handling/program.py)
+- [File Handling](./src/13_file_handling/program.py)
 
-Part 3: Intermediate Concepts
-File Handling
 
-Program: Read a file and count the occurrences of each word.
-Concepts: Reading/writing files, file paths, and modes.
 Object-Oriented Programming (OOP) Basics
 
 Program: Create a class for a BankAccount with deposit and withdraw methods.
