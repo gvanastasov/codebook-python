@@ -20,21 +20,13 @@ Part 1: Python Basics
 - [Date](./src/16_dates/program.py)
 - [Regex](./src/17_regex/program.py)
 - [Http](./src/18_http/program.py)
-- 
+- [Data Analysis](./src/19_data_analysis/program.py)
 
-Data Analysis with Pandas
-
-Program: Analyze and visualize a dataset (e.g., CSV of sales).
-Concepts: DataFrames, reading files, and basic visualization.
-
-Matplotlib and Data Visualization
-
-Program: Plot a graph of stock prices over time.
-Concepts: Line charts, bar charts, and customization.
 Automation with Python
 
 Program: Automate sending emails using the smtplib library.
 Concepts: Automating repetitive tasks, SMTP basics.
+
 Building a Simple Web Scraper
 
 Program: Scrape the titles of articles from a website.
