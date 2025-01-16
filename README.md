@@ -19,11 +19,14 @@ Part 1: Python Basics
 - [Module](./src/15_modules/program.py)
 - [Date](./src/16_dates/program.py)
 - [Regex](./src/17_regex/program.py)
+- [Http](./src/18_http/program.py)
+- 
 
 Data Analysis with Pandas
 
 Program: Analyze and visualize a dataset (e.g., CSV of sales).
 Concepts: DataFrames, reading files, and basic visualization.
+
 Matplotlib and Data Visualization
 
 Program: Plot a graph of stock prices over time.
@@ -57,3 +60,11 @@ Deploying Your Python Application
 
 Program: Package a Python script into an executable.
 Concepts: Using tools like pyinstaller or virtual environments.
+
+
+1. install py
+2. talk about py cli
+3. talk about pip
+4. talk about pipx
+5. talk about 
+6. talk about poetry
