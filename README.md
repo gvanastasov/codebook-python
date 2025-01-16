@@ -1,7 +1,7 @@
 # codebook-python
+This repository serves as a quick crash codebook on Python, covering fundamental concepts and practical examples. Each chapter focuses on a specific topic, providing code snippets and explanations to help you understand and apply Python programming concepts.
 
-Part 1: Python Basics
-
+## 📚 Chapters
 - [Hello World](./src/01_hello_world/program.py)
 - [Variables and Data Types](./src/02_variables/program.py)
 - [Basic Arithmetic and Operators](./src/03_operations/program.py)
@@ -22,41 +22,52 @@ Part 1: Python Basics
 - [Http](./src/18_http/program.py)
 - [Data Analysis](./src/19_data_analysis/program.py)
 
-Automation with Python
+## 🎯 How to Use This Codebook
 
-Program: Automate sending emails using the smtplib library.
-Concepts: Automating repetitive tasks, SMTP basics.
+### Prerequisites
 
-Building a Simple Web Scraper
+1. **Python Installation**:
+   - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-Program: Scrape the titles of articles from a website.
-Concepts: Web scraping basics with BeautifulSoup.
-Part 5: Becoming a Hero
-Introduction to Unit Testing
+2. **Python CLI**:
+   - Familiarize yourself with the Python command-line interface (CLI). You can run Python scripts using the `python` command:
+```bash
+python path/to/your_script.py
+```
 
-Program: Write unit tests for a calculator program.
-Concepts: The unittest module, test-driven development.
-Building a CLI Application
+3. **Pip**:
+   - Pip is the package installer for Python. You can install packages using pip:
+```bash
+pip install package_name
+```
 
-Program: Create a command-line tool to convert currencies.
-Concepts: The argparse module and CLI design.
-Building a GUI Application
+4. **Pipx**:
+   - Pipx is a tool to help you install and run end-user applications written in Python. It allows you to install Python applications in isolated environments:
+```bash
+pip install pipx
+pipx install package_name
+```
 
-Program: Create a to-do list app using tkinter.
-Concepts: Event-driven programming and GUI design basics.
-Intro to Web Development
+5. **Poetry**:
+   - Poetry is a dependency management tool for Python. It helps you declare, manage, and install dependencies of Python projects, ensuring you have the right stack everywhere:
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
+poetry install
+```
 
-Program: Build a simple Flask web application.
-Concepts: Basics of web frameworks and serving routes.
-Deploying Your Python Application
+### Running the Code
 
-Program: Package a Python script into an executable.
-Concepts: Using tools like pyinstaller or virtual environments.
+1. **Clone the Repository**
+2. **Navigate to a Chapter**: Each chapter is located in the src directory. Navigate to the desired chapter to explore the code examples:
 
+```sh
+cd src/02_variables
+```
 
-1. install py
-2. talk about py cli
-3. talk about pip
-4. talk about pipx
-5. talk about 
-6. talk about poetry
+3. **Run the Python Script**: Execute the Python script for the chapter you are exploring:
+
+```sh
+python program.py
+```
+
+Happy coding! 🚀
